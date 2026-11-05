@@ -1,0 +1,24 @@
+CHANDRA — ORBITAL STUDIO PORTFOLIO
+
+Open index.html after extracting this entire folder. thesis.html contains the research narrative, verified results graph, results table and the complete thesis PDF. Keep the assets folder alongside both HTML files. No installation, external fonts, libraries or database required.
+
+HOSTING
+Upload index.html, thesis.html and assets/ to GitHub Pages or Cloudflare Pages. The README is for the owner; it is not linked from the public site. No website has been published by this task.
+
+CONTACT FORM — SETUP REQUIRED
+The form is deliberately disabled and reports that messaging is temporarily unavailable. There is no delivery endpoint or credential in the supplied files. It never claims a message was sent.
+Before enabling, configure a form service (for example Formspree) that delivers to dhunganac5@gmail.com and supports server-side spam filtering, rate limiting and a human-verification challenge. Verify that it accepts either an email address or a phone number as the reply method. Confirm the mailbox through the provider. Keep any secret keys on the provider/server, never in these downloadable files.
+Integrate the verified endpoint in assets/site.js, remove the disabled attribute from the fieldset only once configured, enforce name (2–100), reply contact (up to 150) and message (10–5000) on the server as well as client. Reject the honeypot, enforce server-side repeated-submission limits, and verify CAPTCHA tokens server-side when challenged. Display the supplied success copy only after an accepted delivery response: “Thanks for reaching out. Your message has been sent.” On errors display “Your message could not be sent. Please try again later.” Test successful delivery to Gmail, provider failures, validation failures and spam rejection before enabling publicly. A client-only cooldown cannot provide adequate rate limiting.
+
+CONTENT CONFIRMATIONS
+- Employment confirmed by the owner: TFE Hotels — Hotel Night Manager, January 2026–Present; 25hours Olympia — September 2025–January 2026; Nespresso — June 2025–Present; Bose — May 2024–June 2025. TFE leadership and decision-making summary updated without inventing achievements or team sizes.
+- Confirm years for the July–September further-paper milestone and September-onwards PhD preparation. The supplied explicit 2026/2027 years are retained for the other milestones.
+- Employer and university logos are bundled locally; sources are listed in assets/LOGO-SOURCES.txt. MIT here is the Melbourne Institute of Technology (MIT Sydney). Do not substitute Massachusetts Institute of Technology.
+- The thesis PDF is the original with the handwritten signature removed from pages 2 and 3. It keeps its academic title-page identifiers and declarations. Private résumé address, phone and referees are not included. The résumé itself is not bundled.
+- Project links are the original references; historical website availability is not claimed. “Ongoing” inside an expanded original project description is historical source wording.
+
+EDITING
+Content: index.html and thesis.html.
+Theme: assets/styles.css (CSS variables at the top).
+UI and age: assets/site.js. Age is a fixed number (const age) shown at the end of each page. Update it by hand each year.
+Animation: assets/background.js; four elliptical rings, about 30fps, hidden-tab suspension, reduced-motion support and pause/resume control.

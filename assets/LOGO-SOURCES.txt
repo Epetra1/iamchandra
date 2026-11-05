@@ -1,0 +1,17 @@
+Brand marks remain trademarks of their owners. Their appearance identifies represented brands; it does not imply direct employment or endorsement.
+
+Bose: https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bose.svg
+Visa: https://cdn.jsdelivr.net/npm/simple-icons@11/icons/visa.svg
+Sony: https://cdn.jsdelivr.net/npm/simple-icons@11/icons/sony.svg
+Vodafone: https://cdn.jsdelivr.net/npm/simple-icons@11/icons/vodafone.svg
+
+Simple Icons project: https://github.com/simple-icons/simple-icons (CC0-1.0 collection; trademark rights remain separate). Original SVG path geometry is unchanged; the Bose, Visa and Sony canvases are cropped to remove empty space. Standard brand colours and white logo tiles preserve legibility in both themes.
+
+Official sites, downloaded November 2026:
+TFE Hotels: https://media.tfehotels.com/static-v1/website/images/logos/svg/TFE-black.svg
+25hours Hotels: header logo from https://25hours-hotels.com/, extracted to a file and set to black.
+Nespresso: https://www.nespresso.com/ecom/medias/sys_master/public/29230987247646/nespresso-logo-light.svg, recolored from white to black for white tiles.
+Melbourne Institute of Technology (Australia): https://www.mit.edu.au/sites/default/files/logo.png
+Torrens University Australia: https://www.torrens.edu.au/-/media/project/laureate/shared/core/torrens-logo_orange_128x37px.svg
+
+Logo shapes are unchanged. These are trademarks of their owners and are not licensed for this site; replace or remove any on request.
